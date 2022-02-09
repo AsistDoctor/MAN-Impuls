@@ -61,6 +61,16 @@ body {
   padding: 36px;
   overflow: scroll;
 }
+.content__py{
+  color:red;
+}
+
+.content__pas{
+  color:blue;
+}
+.content__h2:first-letter{
+  color:#EEEEEE;
+}
 
 /* Hide scrollbar for Chrome, Safari and Opera */
 .content::-webkit-scrollbar {
