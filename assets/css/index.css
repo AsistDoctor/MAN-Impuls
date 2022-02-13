@@ -15,7 +15,7 @@ body {
 /* Base layout */
 .app {
   display: flex;
-  height: 100vh;
+  height: 110vh;
 }
 .app__sidebar {
   width: 24%;
