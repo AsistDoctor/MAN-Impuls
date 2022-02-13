@@ -46,6 +46,12 @@ body {
   font-style: italic;
 }
 
+.sidebar__pyter{
+   color: white;
+    background:#000000;
+    
+}
+
 /* Content styles */
 .app__content {
   background-image: url("../images/background.jpg");
@@ -114,3 +120,6 @@ body {
   width: 60%;
 }
 
+.image_in{
+    width:40%;
+}
